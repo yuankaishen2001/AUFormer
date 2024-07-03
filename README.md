@@ -2,11 +2,10 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/auformer-vision-transformers-are-parameter/facial-action-unit-detection-on-bp4d)](https://paperswithcode.com/sota/facial-action-unit-detection-on-bp4d?p=auformer-vision-transformers-are-parameter)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/auformer-vision-transformers-are-parameter/facial-action-unit-detection-on-disfa)](https://paperswithcode.com/sota/facial-action-unit-detection-on-disfa?p=auformer-vision-transformers-are-parameter)
 
-The official code for the paper _'AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors'_.
-
 ## News
 - **_News (2024-07)_**: 🎉🎉🎉 Congratulations on AUFormer being accepted by ECCV 2024🔥! Our open-source code is making progress, stay tuned for updates!
 
+The official code for the paper _'AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors'_.
 
 <p align="center">
 <img src="Pipeline.png" width="100%" />
