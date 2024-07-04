@@ -20,7 +20,8 @@ If you find this repository is useful, please consider star🌟 this repo and ci
 @article{yuan2024auformer,
   title={AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors},
   author={Yuan, Kaishen and Yu, Zitong and Liu, Xin and Xie, Weicheng and Yue, Huanjing and Yang, Jingyu},
-  journal={arXiv preprint arXiv:2403.04697},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  year={2024},
+  organization={Springer}
 }
 ```
