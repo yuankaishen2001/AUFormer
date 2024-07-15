@@ -17,7 +17,7 @@ The official code for the paper _'AUFormer: Vision Transformers are Parameter-Ef
 =
 If you find this repository is useful, please consider star🌟 this repo and cite🖇️ our paper.
 ```
-@article{yuan2024auformer,
+@inproceedings{yuan2024auformer,
   title={AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors},
   author={Yuan, Kaishen and Yu, Zitong and Liu, Xin and Xie, Weicheng and Yue, Huanjing and Yang, Jingyu},
   booktitle={European Conference on Computer Vision},
